@@ -1,4 +1,4 @@
-What movie was that?®
+# H1 What movie was that?®
 
 
 Manager: Daniel David
@@ -10,7 +10,7 @@ Developer: Daniel David
 Designer: Daniel David
 
 
-Have you ever:
+# H2 Have you ever:
 
 
 1.tried to describe a movie and just couldn't?
@@ -28,7 +28,7 @@ Yeah we've been there before
 This is what this website is for!
 
 
-What movie was that?® is a website that does all the recalling for you. Just enter an actor, a year, or the title and press search. Then the following pops up for every result:
+# H3 What movie was that?® is a website that does all the recalling for you. Just enter an actor, a year, or the title and press search. Then the following pops up for every result:
 
 
 The Title
