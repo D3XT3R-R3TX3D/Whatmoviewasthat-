@@ -1,5 +1,7 @@
 body{
-    background-color: blue;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 ul{
@@ -7,3 +9,4 @@ ul{
     font-size: 30px;
     font-weight: bold;
 }
+

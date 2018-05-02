@@ -36,6 +36,7 @@ $(document).ready(function() {
                 var runTime= response.Runtime;
                 console.log(title);
                 console.log(rating);
+                 $('.results').append('<img src='+ response.Poster + '>');
                 appendInfoToBody("Title: " + title);
                 appendInfoToBody("Release Date: " +released);
                 appendInfoToBody("Rated: " +rating);
@@ -44,7 +45,6 @@ $(document).ready(function() {
                 appendInfoToBody("Director(s): " +director);
                 appendInfoToBody("Main Cast: " +actors);
                 appendInfoToBody("Short plot: " +plot);
-                $('.results').append('<img src=' + response.Poster + '>');
 
             },
         });
